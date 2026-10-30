@@ -1,0 +1,13 @@
+# Object files
+*.o
+
+# Executable files
+a.out
+address_book
+
+# Contact data files (keep personal data private)
+contacts.csv
+contacts.txt
+
+# IDE files
+.vscode/
